@@ -2,7 +2,7 @@ Natura — Intelligent Natural Skincare Assistant
 
 Natura is an advanced AI-powered skincare assistant designed for personalized natural remedy recommendations. This project combines cutting-edge large language models (LLMs) with a Retrieval-Augmented Generation (RAG) pipeline to deliver precise, contextually grounded skincare advice tailored to individual skin profiles.
 
-Built with OpenChat 3.5 (4-bit quantized) and integrated with a structured remedy database, Natura demonstrates a robust implementation of conversational AI in the wellness domain.
+Built with OpenChat 3.5 (4-bit quantized), and enhanced by fine tuning with QLORA on natural remedies and integrated with a structured remedy database, Natura demonstrates a robust implementation of conversational AI in the wellness domain.
 
 ---
 
