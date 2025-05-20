@@ -37,9 +37,9 @@ Natura/
 ├── embedding_model/
 │   └── [MiniLM model files] # (Download instructions provided)
 └── README.md
-IMPORTANT NOTE : THE DATABASE CSV FILE IS JUST AN EXAMPLE AS WE ARE NOT DISCLOSING OUR FULL DATABASE PUBLICLY.
----
 
+---
+IMPORTANT NOTE : THE DATABASE CSV FILE IS JUST AN EXAMPLE AS WE ARE NOT DISCLOSING OUR FULL DATABASE PUBLICL
 Setup Instructions
 
 1. Clone the repository
